@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "深海52Hz",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+  "createdAt": "2026-02-15T20:49:55.507702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "深海52Hz",
+      "artist": "B小町 ルビー(CV：伊駒ゆりえ)、 有馬かな(CV：潘めぐみ)、 MEMちょ(CV：大久保瑠美)",
+      "has_synced": true,
+      "path": "select/01_深海52Hz_B小町_ルビー(CV_伊駒ゆりえ)、_有馬かな(CV_潘めぐみ)、_MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "深海52Hz",
+      "artist": "B-Komachi ルビー(CV:伊駒ゆりえ)、有馬かな(CV:Megumi Han)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": true,
+      "path": "select/02_深海52Hz_B-Komachi_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_Megumi_Han)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "深海52Hz - ルビー Solo Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/03_深海52Hz_-_ルビー_Solo_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "深海52Hz - 有馬かな Solo Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/04_深海52Hz_-_有馬かな_Solo_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "深海52Hz (instrumental)",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/05_深海52Hz_(instrumental)_B小町.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "深海52Hz",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": true,
+      "path": "select/06_深海52Hz_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "深海52Hz",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/07_深海52Hz_B小町.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "深海52Hz - ルビー Solo Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/08_深海52Hz_-_ルビー_Solo_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "深海52Hz",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/09_深海52Hz_B小町.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "深海52Hz",
+      "artist": "B小町, ルビー（CV：伊駒ゆりえ）, 有馬かな（CV：潘めぐみ） & MEMちょ（CV：大久保瑠美）",
+      "has_synced": true,
+      "path": "select/10_深海52Hz_B小町,_ルビー(CV_伊駒ゆりえ),_有馬かな(CV_潘めぐみ)_&_MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "深海52Hz(instrumental)",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/11_深海52Hz(instrumental)_B小町.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "深海52Hz -ルビー Solo Ver.-",
+      "artist": "B KOMACHI RUBY(CV: YURIE IGOMA)",
+      "has_synced": false,
+      "path": "select/12_深海52Hz_-ルビー_Solo_Ver.-_B_KOMACHI_RUBY(CV__YURIE_IGOMA).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "深海52Hz -MEMちょ Solo Ver.-",
+      "artist": "B KOMACHI MEMCHO (CV: RUMI OKUBO)",
+      "has_synced": false,
+      "path": "select/13_深海52Hz_-MEMちょ_Solo_Ver.-_B_KOMACHI_MEMCHO_(CV__RUMI_OKUBO).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "深海52Hz",
+      "artist": "B小町/ルビー(CV:伊駒ゆりえ)/有馬かな(CV:潘めぐみ)/MEMちょ(CV:大久保瑠美)",
+      "has_synced": true,
+      "path": "select/14_深海52Hz_B小町_ルビー(CV_伊駒ゆりえ)_有馬かな(CV_潘めぐみ)_MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "深海52Hz -有馬かな Solo Ver.-",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/15_深海52Hz_-有馬かな_Solo_Ver.-_B小町.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深海52Hz",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_深海52Hz_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
